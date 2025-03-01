@@ -1,12 +1,12 @@
 ### given: video 
 ### assume: 
-video is top down view of scene containing animal 
-background scene will not change; camera position/angle is static
-animal will traverse scene over time
-animal will contain some tether, should be ignored
-animal will be marked (per discuss w/diego); red dot on head
-==> background will be other color, distinct from head (e.g. white) 
-only one animal per scene (TODO: multi obj taggign via centroids?)
+- video is top down view of scene containing animal 
+- background scene will not change; camera position/angle is static
+- animal will traverse scene over time
+- animal will contain some tether, should be ignored
+- animal will be marked (per discuss w/diego); red dot on head
+* background will be other color, distinct from head (e.g. white) 
+- only one animal per scene (TODO: multi obj taggign via centroids?)
 
 
 

@@ -10,17 +10,17 @@
 
 
 
-### requirements: program should
+### requirements: program should do
 - extract animal location at every frame (background sub, ignore tether/center of mass?)
 - extract animal head direction at every frame (assume mouse; relative to center of mass, where is red dot?)
 
 
-- user should be able to:
+### requirements: user should be able to:
 * create zone overlay (pie chart style? grid? polygons?) => per frame, log zone animal is in
 
 * create goal zones (i.e. polygons) => per frame, log animal distance from zone 
 
-- program should output:
+### requirements: program should output
 * heatmap of animal location over time (like this: https://www.maptive.com/wp-content/uploads/2020/10/us_library_heat_map-1.png)
 
 * video_log CSV containing columns:

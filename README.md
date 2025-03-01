@@ -1,4 +1,5 @@
-### given: video 
+### given: 
+- video (mp4?) 
 ### assume: 
 - video is top down view of scene containing animal 
 - background scene will not change; camera position/angle is static
